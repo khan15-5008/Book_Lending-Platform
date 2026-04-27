@@ -48,6 +48,8 @@ Home_page
 )
 ![image alt](https://github.com/khan15-5008/Book_Lending-Platform/blob/07ddbee2a9deb91fa06d5c07c703aff020880ede/Screenshot%202026-04-27%20190235.png
 )
+![image alt](https://github.com/khan15-5008/Book_Lending-Platform/blob/e8d10720a104464c56d4c66248720192de6e5753/Screenshot%202026-04-27%20190541.png
+)
 ![image alt](
 )
 ## Tech Stack
