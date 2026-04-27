@@ -40,7 +40,7 @@ Screenshot
 Home_page
 ![image alt](https://github.com/khan15-5008/Book_Lending-Platform/blob/824e33497e2a348d601809e5e44e49f88192f488/Screenshot%202026-04-27%20184250.png
 )
-![image alt](
+![image alt](https://github.com/khan15-5008/Book_Lending-Platform/blob/055e2c1370010a328b71f877bf03f60927c15de8/Screenshot%202026-04-27%20185052.png
 )
 ![image alt](
 )
