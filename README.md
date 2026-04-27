@@ -36,6 +36,9 @@ A comprehensive book lending and swapping platform built with Django REST Framew
 - Request management
 - Borrowing history
 
+Screenshot
+![image alt](
+)
 ## Tech Stack
 
 ### Backend
